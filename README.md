@@ -23,7 +23,7 @@ VISUAL STUDIO CODE
 <p>¡Sería genial mantenernos en contacto! Puedes encontrarme aquí👇:</p>
 
 <p>📧 Email: bustamantegd@outlook.com</p>
-<p>📧 gmail: dbustamante.0306@gmail.com</p>
+<p>📧 Gmail: dbustamante.0306@gmail.com</p>
 
 <p>🔗 LinkedIn: www.linkedin.com/in/daniela-bustamante-gomez</p>
 
