@@ -4,19 +4,19 @@
 
 <h2>🌟 Datos Curiosos:</h2>
 
-🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.
-📺 Fan de peliculas de terror.
-🎶 Apasionada por todo tipo de musica, si me gusta el ritmo puede ser Méxicana, Colombiana Francesa, etc.
-🍽️ Como buena mexicana me encantan los tacos.
-☔ Amante del clima frío, especialmente cuando llueve o en diciembre.
-💻 Tech Stack:
-HTML5 CSS3 JavaScript Canva Figma GIT Trello
+<p>🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.</p>
+<p>📺 Fan de peliculas de terror.</p>
+<p>🎶 Apasionada por todo tipo de musica, si me gusta el ritmo puede ser Méxicana, Colombiana Francesa, etc.</p>
+<p>🍽️ Como buena mexicana me encantan los tacos.</p>
+<p>☔ Amante del clima frío, especialmente cuando llueve o en diciembre.</p>
+<p>💻 Tech Stack:</p>
+<p>HTML5 CSS3 JavaScript Canva Figma GIT Trello</p>
 
-📬 Contact:
-¡Sería genial mantenernos en contacto! Puedes encontrarme en las siguientes plataformas:
+<p>📬 Contact:</p>
+<p>¡Sería genial mantenernos en contacto! Puedes encontrarme en las siguientes plataformas:</p>
 
-📧 Email: bustamantegd@outlook.com
+<p>📧 Email: bustamantegd@outlook.com</p>
 
-🔗 LinkedIn: www.linkedin.com/in/daniela-bustamante-gomez
+<p>🔗 LinkedIn: www.linkedin.com/in/daniela-bustamante-gomez</p>
 
 
