@@ -1,4 +1,3 @@
-<h1>Bienvenidos!</h1>
 <h1>Hola Soy Daniela Bustamante!</h1>
 <h2>💫 About Me:</h2>
 <p>Soy ingeniera en Sistemas Computacionales apasionada y comprometida con un enfoque al desarrollo web. Mi viaje en el mundo de la programación comenzó durante mi tiempo en el Bootcamp de Laboratoria, donde adquirí habilidades técnicas sólidas en desarrollo web fron-end y back-end, incluyendo HTML, CSS, JavaScript, Java, SQL y  más. Me apasiona brindar soluciones prácticas que mejoren la experiencia del usuario y ofrecer un servicio excepcional.</p>
