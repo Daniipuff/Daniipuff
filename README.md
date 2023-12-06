@@ -6,7 +6,7 @@
 
 <p>🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.</p>
 <p>📺 Fan de The Big Bang Theory.</p>
-<p>🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, etc... </p>
+<p>🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, clasica, etc... </p>
 <p>🍽️ Como buena mexicana me encantan los Tacos.</p>
 <p>☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.</p>
 <p>💻 Tech Stack:</p>
