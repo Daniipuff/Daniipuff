@@ -5,10 +5,10 @@
 <h2>🌟 Datos Curiosos:</h2>
 
 <p>🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.</p>
-<p>📺 Fan de peliculas de terror.</p>
-<p>🎶 Apasionada por todo tipo de musica, si me gusta el ritmo puede ser Méxicana, Colombiana Francesa, etc.</p>
-<p>🍽️ Como buena mexicana me encantan los tacos.</p>
-<p>☔ Amante del clima frío, especialmente cuando llueve o en diciembre.</p>
+<p>📺 Fan de The Big Bang Theory.</p>
+<p>🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, etc... </p>
+<p>🍽️ Como buena mexicana me encantan los Tacos.</p>
+<p>☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.</p>
 <p>💻 Tech Stack:</p>
 <p>HTML5 CSS3 JavaScript Canva Figma GIT Trello</p>
 
