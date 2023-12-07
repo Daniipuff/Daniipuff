@@ -4,11 +4,11 @@
 
 <h2>🌟 Datos Curiosos:</h2>
 
-🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.<br>
-📺 Fan de The Big Bang Theory.<br>
-🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, clasica, etc... <br>
-🍽️ Como buena mexicana me encantan los Tacos.<br>
-☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.
+<p>🐾 Amante de los perritos y gatitos, siempre dispuesta a ayudar a nuestros amigos peludos.</p>
+<p>📺 Fan de The Big Bang Theory.</p>
+<p>🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, clasica, etc... </p>
+<p>🍽️ Como buena mexicana me encantan los Tacos.</p>
+<p>☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.</p>
 
 <h2>💻 Tech Stack:</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23D35400%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23D35400%20&color=%23D35400%20">
