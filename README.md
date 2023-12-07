@@ -10,9 +10,8 @@
 🍽️ Como buena mexicana me encantan los Tacos.<br>
 ☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.<br>
 💻 Tech Stack:<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-BLUE">
-
-CSS
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-%20%23FF8C00">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS%203%20-%231E90FF">
 JAVASCRIPT
 GIT 
 GITHUB
