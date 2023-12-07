@@ -11,6 +11,7 @@
 ☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.
 <h2>💻 Tech Stack:</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23D35400%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23D35400%20&color=%23D35400%20">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232874A6%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=%232874A6%20&color=%232874A6%20">
 
 TRELLO
 VISUAL STUDIO CODE
