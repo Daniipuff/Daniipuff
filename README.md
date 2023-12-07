@@ -10,7 +10,7 @@
 🍽️ Como buena mexicana me encantan los Tacos.<br>
 ☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.<br>
 💻 Tech Stack:<br>
-<img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="40" height="35">
+<img src="[https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="40" height="35">
 CSS
 JAVASCRIPT
 GIT 
