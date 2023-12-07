@@ -11,18 +11,11 @@
 <p>☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.</p>
 
 <h2>💻 Tech Stack:</h2>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23D35400%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23D35400%20&color=%23D35400%20">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23D35400%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23D35400%20&color=%23D35400%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232874A6%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=%232874A6%20&color=%232874A6%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23D4AC0D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23D4AC0D&color=%23D4AC0D">
 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23A93226%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23A93226%20&color=%23A93226%20">
-<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23A93226%20?style=for-the-badge&logo=github&logoColor=white&labelColor=%2376448A%20&color=%2376448A%20">
-
-
-
-
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23A93226%20?style=for-the-badge&logo=github&logoColor=white&labelColor=%2376448A%20&color=%2376448A%20"></p>
 TRELLO
 VISUAL STUDIO CODE
 
