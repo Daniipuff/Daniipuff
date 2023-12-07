@@ -10,7 +10,7 @@
 🍽️ Como buena mexicana me encantan los Tacos.<br>
 ☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.<br>
 💻 Tech Stack:<br>
-<img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" width="40" height="80">
+<img src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" width="80" height="50">
 CSS
 JAVASCRIPT
 GIT 
