@@ -8,7 +8,7 @@
 📺 Fan de The Big Bang Theory.<br>
 🎶 Apasionada por todo tipo de musica, pop, reggaeton, clasica, rap, hip-hop, clasica, etc... <br>
 🍽️ Como buena mexicana me encantan los Tacos.<br>
-☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.
+☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.<br>
 💻 Tech Stack:<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23D35400%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23D35400%20&color=%23D35400%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232874A6%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=%232874A6%20&color=%232874A6%20">
