@@ -1,4 +1,4 @@
-<h1>💻Hola Soy Daniela Bustamante! <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="40" height="35"></h1> 
+<h1>💻Hola Soy Daniela Bustamante!  <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="40" height="35"></h1> 
 <h2>💫 About Me:</h2>
 <p>Soy Ingeniera en Sistemas Computacionales apasionada y comprometida con un enfoque al desarrollo web. Mi viaje en el mundo de la programación comenzó durante mi tiempo en el Bootcamp de Laboratoria, donde adquirí habilidades técnicas sólidas en desarrollo web fron-end y back-end, incluyendo HTML, CSS, JavaScript, Java, SQL y  más. Me apasiona brindar soluciones prácticas que mejoren la experiencia del usuario y ofrecer un servicio excepcional.</p>
 
@@ -10,7 +10,7 @@
 🍽️ Como buena mexicana me encantan los Tacos.<br>
 ☔ Amante del clima frío, especialmente cuando llueve o epoca navideña.<br>
 💻 Tech Stack:<br>
-HTML
+<img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="40" height="35">
 CSS
 JAVASCRIPT
 GIT 
