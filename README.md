@@ -15,23 +15,17 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232874A6%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=%232874A6%20&color=%232874A6%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23D4AC0D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23D4AC0D&color=%23D4AC0D">
 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23A93226%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23A93226%20&color=%23A93226%20">
-<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23A93226%20?style=for-the-badge&logo=github&logoColor=white&labelColor=%2376448A%20&color=%2376448A%20">
-<img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-336BFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=magenta&color=F1A0EE">
-<img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-Black?style=for-the-badge&logo=Trello&logoColor=235B1E&color=17A40A">
-<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-EC802B?style=for-the-badge&logo=java&logoColor=DC5700&color=EC802B">
-<img alt="Static Badge" src="https://img.shields.io/badge/ECLIPSE-802A04?style=for-the-badge&logo=Eclipse&logoColor=7400FF&color=D85E28">
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-7A23C8?style=for-the-badge&logo=GITHUB&logoColor=B88CDF&color=7A23C8">
+<img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-DE12AA?style=for-the-badge&logo=visual%20studio%20code&logoColor=FF26C8&color=A50A7E">
+<img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-337A30?style=for-the-badge&logo=TRELLO&logoColor=A4E1A1&color=068400">
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-E54200?style=for-the-badge&logo=JAVA&logoColor=FD9971&color=E54200">
+<img alt="Static Badge" src="https://img.shields.io/badge/ECLIPSE-1008C0?style=for-the-badge&logo=eclipse&logoColor=7CACF5&color=1008C0">
 </p>
-
-VISUAL STUDIO CODE
 
 <p>📬 Contact:</p>
 <p>¡Sería genial mantenernos en contacto! Puedes encontrarme aquí👇:</p>
 
 <p>📧 Email: bustamantegd@outlook.com</p>
 <p>📧 Gmail: dbustamante.0306@gmail.com</p>
-
-<p>🔗 LinkedIn: www.linkedin.com/in/daniela-bustamante-gomez</p>
-
+<p>👩 LinkedIn: www.linkedin.com/in/daniela-bustamante-gomez</p>
 
