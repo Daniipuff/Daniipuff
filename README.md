@@ -16,9 +16,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23D4AC0D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23D4AC0D&color=%23D4AC0D">
 <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23A93226%20?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23A93226%20&color=%23A93226%20">
 <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23A93226%20?style=for-the-badge&logo=github&logoColor=white&labelColor=%2376448A%20&color=%2376448A%20">
-<img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-RED?style=for-the-badge&logo=TRELLO&color=RED">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-336BFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=magenta&color=F1A0EE">
-<img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-black?style=for-the-badge&logo=trello&logoColor=green&color=029307">
+<img alt="Static Badge" src="https://img.shields.io/badge/TRELLO-Black?style=for-the-badge&logo=Trello&logoColor=235B1E&color=17A40A">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-EC802B?style=for-the-badge&logo=java&logoColor=DC5700&color=EC802B">
 <img alt="Static Badge" src="https://img.shields.io/badge/ECLIPSE-802A04?style=for-the-badge&logo=Eclipse&logoColor=7400FF&color=D85E28">
 
